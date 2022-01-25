@@ -28,6 +28,3 @@
   * JSTL(JSP standard Tag Library)
   * Front(Controller패턴, Command패턴)
   * Forwarding
-
-* mvc_board
-  * MVC 패턴 이해, 전체적인 컴포넌트 설계, dB 생성
